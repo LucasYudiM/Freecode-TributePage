@@ -30,3 +30,5 @@ Você pode usar HTML, JavaScript e CSS para concluir este projeto. CSS simples �
 •User Story #9 : O elemento img deve ser centralizado dentro de seu elemento pai.
 
 Você pode construir seu projeto bifurcando esta caneta CodePen. Ou você pode usar este link CDN para executar os testes em qualquer ambiente que desejar: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js .
+
+> :construction: Projeto em construção :construction:
