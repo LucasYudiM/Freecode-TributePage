@@ -31,4 +31,4 @@ Você pode usar HTML, JavaScript e CSS para concluir este projeto. CSS simples �
 
 Você pode construir seu projeto bifurcando esta caneta CodePen. Ou você pode usar este link CDN para executar os testes em qualquer ambiente que desejar: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js .
 
-> :construction: Projeto em construção :construction:
+> :construction: Projeto em aperfeiçoamento :construction:
