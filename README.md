@@ -1,4 +1,4 @@
-<h1 align="center"> Projetos de Web Design Responsivos - Crie uma Página de Tributo </h1>
+<h1 align> Projetos de Web Design Responsivos - Crie uma Página de Tributo </h1>
 Primeiro projeto HTML5 CSS, para o curso de web design responsivo, com finalidade de reprodução de uma página de informação.
 
 Free Code Camp - Certificação Treinamento Web Design Responsivo | Projeto 01 - Construa uma página tributo
@@ -35,3 +35,5 @@ Você pode construir seu projeto bifurcando esta caneta CodePen. Ou você pode u
     :construction:  Projeto em Aperfeiçoamento  :construction:
 </h4>
   
+  ## ✅ Tecnologias utilizadas 
+
